@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Project</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<style type="text/css">
+		.MyDiv{
+			text-align: center;
+			color: black; 
+			width: 73%;
+			height: 10;
+			border: 2px;
+			border-color: #FFDB89;
+			border-style: inset;
+			border-width: 6px;
+			margin: auto;
+			padding: 5px;
+			color: #4E6C50; 
+			text-decoration:;
+			text-transform: capitalize;
+			text-shadow: 2px 3px 4px white;
+			letter-spacing: 1px;
+
+		}
+		body {
+			background-image: url('backgeounf.png');
+		
+		}
+	</style>
+</head>
+<body>
+	<p><Font face="Chrumpy"></p>
+<div>
+	<h1><center><p><Font face="Chrumpy">Jabee Menu</p></center></h1>
+
+</div>
+	
+</div>
+<div class="MyDiv">
+<center><table border="4" cellpadding="5" width="50">
+	<tr div	style="background: white">
+		<td colspan="5">
+			<center>Chicken Bucket meal</center>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="bucket 1.png" width="350" height="300">
+		</td>
+		<td>
+			<img src="bucket 2.png" width="350" height="300">
+		</td>
+		<td>
+			<img src="bucket 3.png" width="350" height="300">
+		</td>
+	</tr>
+	<tr bgcolor="white">
+		<td>
+			<center>Chicken Sampler Deal</center>
+		</td>
+		<td>
+			<center>Chickenjoy Bucket Treat A</center>
+		</td>
+		<td>
+			<center>Chickenjoy Bucket Treat B</center>
+		</td>
+	</tr>
+	<tr bgcolor="white">
+		<td>
+			<center>₱357</center>
+		</td>
+		<td>
+			<center>₱320</center>
+		</td>
+		<td>
+			<center>₱295</center>
+		</td>
+	</tr>
+	<tr bgcolor="white">
+		<td>
+			<center><a href="https://www.jollibeefoods.com/products/chicken-sampler-deal"><button>BUY NOW</button></a></center>
+		</td>
+		<td>
+			<center><a href="https://www.jollibeefoods.com/products/jolly-crispy-chicken-bucket-treat-a"><button>BUY NOW</button></a></center>
+		</td>
+		<td>
+			<center><a href="https://www.jollibeefoods.com/products/chickenjoy-bucket-treat-b"><button>BUY NOW</button></a></center>
+		</td>
+	</tr>
+</table></center>
+</div>
+<div class="MyDiv">
+<center><table border="4" cellpadding="5" width="50">
+	<tr div	style="background: white">
+		<td colspan="5">
+			<center>Chicken Bucket meal</center>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="1pc with chupagetti.png" width="350" height="300">
+		</td>
+		<td>
+			<img src="2 pc burger stek.png" width="350" height="300">
+		</td>
+		<td>
+			<img src="2pc chicken.png" width="350" height="300">
+		</td>
+	</tr>
+	<tr bgcolor="white">
+		<td>
+			<center>1 Pc Chickenjoy 1/Jolly Spaghetti</center>
+		</td>
+		<td>
+			<center>2 Pc Burger Steak w/1 Side</center>
+		</td>
+		<td>
+			<center>2 Pc Chickenjoy w/ 2 Sides</center>
+		</td>
+	</tr>
+	<tr bgcolor="white">
+		<td>
+			<center>₱75</center>
+		</td>
+		<td>
+			<center>₱55</center>
+		</td>
+		<td>
+			<center>₱75</center>
+		</td>
+	</tr>
+	<tr bgcolor="white">
+		<td>
+			<center><a href="https://www.jollibeefoods.com/products/1-pc-chickenjoy-w-jolly-spaghetti"><button>BUY NOW</button></a></center>
+		</td>
+		<td>
+			<center><a href="https://www.jollibeefoods.com/products/2-pc-burger-steak-w-1-side"><button>BUY NOW</button></a></center>
+		</td>
+		<td>
+			<center><a href="https://www.jollibeefoods.com/products/2-pc-chickenjoy-w-2-sides"><button>BUY NOW</button></a></center>
+		</td>
+	</tr>
+</table></center>
+</div>
+<br><br>
+<hr>
+<p><h1>Log In below to order</h1></p>
+<form>
+    <label>Username</label>
+    <br>
+    <input type="Username" name="">
+    <br>
+    <label>Password:</label>
+    <br>
+    <input type="Email" name="">
+    <br>
+    <label>Foods</label>
+    <br>
+    <select>
+        <option></option>
+        <option>Chicken Sampler Deal</option>
+        <option>Chickenjoy Bucket Treat A</option>
+        <option>Chickenjoy Bucket Treat B</option>
+        <option>1 Pc Chickenjoy 1/Jolly Spaghetti</option>
+        <option>2 Pc Burger Steak W/1 Side</option>
+        <option>2 Pc Chickenjoy W/ 2 Sides</option>
+    </select>
+    <br>
+    <label>Comments:</label>
+    <br>
+    <textarea rows="10"></textarea>
+    <br>
+
+    <input type="submit" value="Submit">
+    <input type="Reset" value="Reset">
+    <br><br><br><br><br><br><br><br><br><br><br>
+
+</body>
+</html>
